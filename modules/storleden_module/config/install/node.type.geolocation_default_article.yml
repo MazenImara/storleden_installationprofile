@@ -1,0 +1,16 @@
+uuid: d2a593d4-4a72-46d3-ac57-37a1f39c8a90
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - geolocation_demo
+_core:
+  default_config_hash: qmPGesnYrXJUesb33z471Z0SnC0IdH9sslzrWZu4m1c
+name: 'Geolocation Demo - Default Article'
+type: geolocation_default_article
+description: 'Geolocation Demo content type'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false
